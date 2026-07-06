@@ -1,2 +1,2 @@
-# PowerBI-Car-Sales-Dashboard
+# PowerBI-Car-Sales-Dashboard.pbix
 Your task is to prepare the data, build a Power BI report, create meaningful calculations, and design an interactive dashboard that can support management decision-making.
